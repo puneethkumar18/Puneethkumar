@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneethkumar18&label=Profile%20views&color=0e75b6&style=flat" alt="puneethkumar18" /> </p>
 - 🌱 I’m currently pursuing  3rd year computer science engineering
+
 - 📝 I'm currently learning basics of cybersecurity
+
 - 📫 How to reach me **puneethkumarg96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
