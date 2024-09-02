@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneethkumar18&label=Profile%20views&color=0e75b6&style=flat" alt="puneethkumar18" /> </p>
-- 🌱 I’m currently pursuing  3rd year computer science engineering
+- 🌱 I’m currently pursuing  final year computer science engineering
 
 - 📝 I'm currently learning cybersecurity
 
