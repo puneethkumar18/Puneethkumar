@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **puneethkumarg96@gmail.com**
 
+-  📑 Check out my resume here - <a href="https://drive.google.com/file/d/17b24hkpDTMz07J75zOCnC4UeURcZiXLj/view?usp=drive_link"> My Resume<a/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
